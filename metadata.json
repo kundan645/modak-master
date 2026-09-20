@@ -1,0 +1,7 @@
+{
+  "name": "Modak Master — Ganpati Bappa's Modak Challenge",
+  "description": "Catch falling modaks, golden modaks, sacred hibiscus and durva in your festive thali while avoiding burnt modaks in this joyful Ganesh Chaturthi festival game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
